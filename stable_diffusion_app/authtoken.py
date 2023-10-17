@@ -1,1 +1,2 @@
-auth_token = "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"
+auth_token = "******************************"
+#HUGGING FACE API KEY
